@@ -1,0 +1,5 @@
+mysql数据库，utf-8编码
+
+密码存放在\WEB-INF\applicationContext.xml
+用户名root,密码sa
+管理员用户名admin,密码是admin
